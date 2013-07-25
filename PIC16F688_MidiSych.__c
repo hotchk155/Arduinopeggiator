@@ -1,0 +1,12 @@
+[Settings]
+Active Directory=C:\Dev\GitHub\Arduinopeggiator\
+Target=PIC16F688
+Active Compiler=BoostC
+Active Config=Release
+Config=0
+[Files]
+Count=1
+File0=PIC16F688_MidiSych.c
+[Browser]
+UseSysHeaders=1
+UseNovoHeaders=1
